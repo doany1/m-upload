@@ -24,7 +24,7 @@ Uploading usually involves:
 
 This tool removes that friction.
 
-**`upload-server.py`** provides a **lightweight HTTP upload endpoint** with zero dependencies — designed for fast deployment during engagements.
+**`m-upload.py`** provides a **lightweight HTTP upload endpoint** with zero dependencies — designed for fast deployment during engagements.
 
 ---
 

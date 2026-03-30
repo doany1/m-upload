@@ -44,13 +44,13 @@ This tool removes that friction.
 ### Start Listener (Attacker Machine)
 
 ```bash
-python3 upload_server.py --port 8000
+python3 m-upload.py --port 8000
 ```
 
 Optional:
 
 ```bash
-python3 upload_server.py --port 8000 --dir /path/to/share
+python3 m-upload.py --port 8000 --dir /path/to/share
 ```
 
 ---
